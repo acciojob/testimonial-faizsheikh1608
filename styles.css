@@ -19,4 +19,5 @@ div{
 .author{
 	text-align : right;
 	padding: 5px;
+	font-style:italic;
 }
